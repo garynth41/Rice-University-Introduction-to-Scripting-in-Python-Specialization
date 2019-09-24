@@ -14,4 +14,4 @@ Learners taking this Specialization are
 - Technical Solutions Engineers
 
 
-#### Pursuing an appropriate role as a Data Scientist, as a resolved solutions-driven analyst with experience leading cross-functional teams in the data science, development, documentation and delivery of process innovations driving the attainment of business goals. 
+#### Pursuing an appropriate role as a Data Scientist, as a solutions-driven analyst with experience leading cross-functional teams in the data science, development, documentation and delivery of process innovations driving the attainment of business goals. 
