@@ -1,4 +1,4 @@
-About this Course
+About this Course/n
 This course will introduce you to the wonderful world of Python programming!  We'll learn about the essential elements of programming and how to construct basic Python programs. We will cover expressions, variables, functions, logic, and conditionals, which are foundational concepts in computer programming. We will also teach you how to use Python modules, which enable you to benefit from the vast array of functionality that is already a part of the Python language. These concepts and skills will help you to begin to think like a computer programmer and to understand how to go about writing Python programs.
 
 By the end of the course, you will be able to write short Python programs that are able to accomplish real, practical tasks. This course is the foundation for building expertise in Python programming. As the first course in a specialization, it provides the necessary building blocks for you to succeed at learning to write more complex Python programs.
