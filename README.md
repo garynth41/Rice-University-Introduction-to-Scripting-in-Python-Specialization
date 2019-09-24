@@ -7,8 +7,8 @@ This specialization is intended for beginners who would like to master essential
 4. Data Visualization (DataViz)
 
 Learners taking this Specialization are
--Technical Leads
--Biostatisticians
--Data Analysts
--Process Analysts
--Technical Solutions Engineers
+- Technical Leads
+- Biostatisticians
+- Data Analysts
+- Process Analysts
+- Technical Solutions Engineers
